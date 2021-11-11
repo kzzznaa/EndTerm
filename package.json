@@ -1,0 +1,19 @@
+{
+  "name": "endtermweb",
+  "version": "1.0.0",
+  "description": "This is an endterm project that shows the how basic node js works. I built a server that hosts: localhost:3000 (index.html), localhost:3000/about (about.html) and localhost:3000/video/memes.mp4 and 2 pictures from gallery", 
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kzzznaa/EndTerm.git"
+  },
+  "author": "Kozhabayev Nazir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kzzznaa/EndTerm/issues"
+  },
+  "homepage": "https://github.com/kzzznaa/EndTerm#readme"
+}
